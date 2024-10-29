@@ -1,0 +1,37 @@
+*{ box-sizing: border-box;}
+
+body {margin: 0;
+    padding: 0;
+    background-color: rgb(187, 243, 169);
+}
+
+.contenedor{ 
+    font-size: 200%;
+   display: flex
+   
+   
+}
+
+.contenedor2{
+    font-size: 500%;
+   display: flex;
+}
+
+nav{
+    background-color: rgb(13, 113, 35);
+   padding: 10px;
+   margin: 10px;
+}
+nav a{
+    font-size: 200%;
+    background-color: rgb(47, 188, 101);
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 5px;
+    margin: 800px;
+    height: 10px;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    
+    
+}
